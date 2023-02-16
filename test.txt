@@ -2,7 +2,7 @@ this file is for test git
 
 1.hello wld
 
-2.project
+2.project test
 
 3.name
 
