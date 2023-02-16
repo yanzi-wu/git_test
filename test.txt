@@ -2,8 +2,6 @@ this file is for test git
 
 1.hello world
 
-1.1 hello test
-
 2.project
 
 3.name
